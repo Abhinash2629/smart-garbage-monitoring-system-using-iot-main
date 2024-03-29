@@ -434,24 +434,16 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This Project is Created by:-
 
-  - [Pavankumar Hegde](https://github.com/hegdepavankumar) [Team Leader]
-  - [Sushil Kumar Sah](https://github.com/sushilsah)
-  - [Safina Fathima](https://github.com/safinafab)
-  - [Santhosh Reddy](https://github.com/)
+  -Abhinash Kumar
 
 
 
-<br>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<br>
+
 
 
  <!-- Support Me --> 
 
  
-if you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
